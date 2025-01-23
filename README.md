@@ -1,9 +1,9 @@
-# sci-node
+# scipy-node
 
-[![npm version](https://badge.fury.io/js/sci-node.svg)](https://badge.fury.io/js/sci-node)
-[![Build Status](https://github.com/your-username/sci-node/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/sci-node/actions)
+[![npm version](https://badge.fury.io/js/scipy-node.svg)](https://badge.fury.io/js/scipy-node)
+[![Build Status](https://github.com/your-username/scipy-node/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/scipy-node/actions)
 
-A Node.js library for scientific computing, inspired by SciPy. The goal of **sci-node** is to provide robust and efficient scientific computation tools for JavaScript and TypeScript developers.
+A Node.js library for scientific computing, inspired by SciPy. The goal of **scipy-node** is to provide robust and efficient scientific computation tools for JavaScript and TypeScript developers.
 
 ---
 
@@ -21,7 +21,7 @@ A Node.js library for scientific computing, inspired by SciPy. The goal of **sci
 Install the package from npm:
 
 ```bash
-npm install sci-node
+npm install scipy-node
 ```
 
 ---
@@ -50,7 +50,7 @@ You can use the following command to automatically update the version number:
 To use the components in your project:
 
 ```js
-import { Matrix } from 'sci-node'
+import { Matrix } from 'scipy-node'
 
 const a = new Matrix([[1, 2], [3, 4]])
 const b = new Matrix([[5, 6], [7, 8]])
@@ -63,7 +63,7 @@ console.log(result) // Matrix { data: [[6, 8], [10, 12]] }
 
 ## Documentation
 
-Comprehensive documentation is available in the [Wiki](https://github.com/basildex/sci-node/wiki).
+Comprehensive documentation is available in the [Wiki](https://github.com/basildex/scipy-node/wiki).
 
 
 ## Development
@@ -80,8 +80,8 @@ Before starting, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/basildex/sci-node.git
-   cd sci-node
+   git clone https://github.com/basildex/scipy-node.git
+   cd scipy-node
    ```
 
 2. Install dependencies:
@@ -110,8 +110,8 @@ We welcome contributions from the community! Follow these steps to contribute:
 2. Clone your fork:
 
    ```bash
-   git clone https://github.com/your-username/sci-node.git
-   cd sci-node
+   git clone https://github.com/your-username/scipy-node.git
+   cd scipy-node
    ```
 3. Create a new branch for your changes:
 
@@ -134,7 +134,7 @@ We welcome contributions from the community! Follow these steps to contribute:
 
 ## Reporting Issues
 
-If you find a bug or have a feature request, please open an [issue](https://github.com/basildex/sci-node/issues) on GitHub.
+If you find a bug or have a feature request, please open an [issue](https://github.com/basildex/scipy-node/issues) on GitHub.
 
 ## License
 
@@ -146,7 +146,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Follow us on social media and join the discussions:
 
-[GitHub Discussions](https://github.com/basildex/sci-node/discussions)        
+[GitHub Discussions](https://github.com/basildex/scipy-node/discussions)        
 [Twitter](https://twitter.com/sci_node)
 
 ---

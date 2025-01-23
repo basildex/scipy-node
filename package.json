@@ -1,5 +1,5 @@
 {
-  "name": "sci-node",
+  "name": "scipy-node",
   "version": "1.0.0",
   "type": "module",
   "description": "A Node.js library for scientific computing, inspired by SciPy.",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/basildex/sci-node.git"
+    "url": "https://github.com/basildex/scipy-node.git"
   },
   "keywords": [
     "scientific",
